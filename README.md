@@ -1,4 +1,5 @@
 # Data Warehouse Project
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0605e4a0-24d6-45bd-a672-858ab7833c30" />
 
 ## Overview
 
